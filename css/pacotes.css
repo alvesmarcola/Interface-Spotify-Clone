@@ -1,0 +1,112 @@
+.vantagens-premium h1{
+    font-size: 40px;
+    letter-spacing: -1.6px;
+    color: black;
+    font-weight: bold;
+}
+
+.vantagens-premium p{
+    font-size: 16px;
+    font-weight: normal;
+    margin: 10px 0px;
+    justify-content: center;
+    padding: 0px;
+    color: black;
+}
+/*Texto acima dos planos*/
+.texto{
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    background: #efefef;
+    padding-bottom: 50px;
+    padding-top:50px ;
+}
+
+.texto h2{
+    font-size: 40px;
+    letter-spacing: -1.6px;
+}
+
+.texto h4{
+    font-size: 16px;
+    font-weight: normal;
+    margin: 10px 0px;
+    text-align: center;
+    padding-bottom: 10px;
+
+}
+
+.vantagens-premium .col-sm .alerta{
+    border-radius: 4px;
+    font-size: 14px;
+    padding: 4px 8px;
+    
+    font-weight: 900;
+    margin: 0px 4px 10px 0px;
+    margin-block: 0px 10px;
+    color: rgb(13, 114, 234);
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(13, 114, 234);
+    
+}
+
+.barra{
+    width: 90%;
+    height: 2px;
+    border-radius: 3px;
+    background: gray;
+    margin: 5px auto;
+    transition: .3s;
+}
+
+.vantagens-premium ul li img{
+    width: 24px;
+    height: 24px;
+}
+
+.v-premium{
+    background-color: #fff;
+    flex-basis: auto;
+    align-items: center;
+    justify-content: space-around;
+    color: rgb(0, 0, 0);
+    border-radius: 10px 10px 0px 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-shadow: rgb(255, 255, 255) 0px 8px 0px 0px, rgba(0, 0, 0, 0.3) 0px 0px 8px;
+    width: 280px;
+    
+}
+
+.v-premium ul li {
+    list-style: none;
+}
+
+.alerta{
+    border-radius: 4px;
+    font-size: 14px;
+    padding: 4px 8px;
+    display: inline-block;
+    font-weight: 900;
+    margin: 0px 4px 10px 0px;
+    margin-block: 0px 10px;
+    color: rgb(13, 114, 234);
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(13, 114, 234);
+}
+
+.button-assinatura{
+    position: relative;
+    color: var(--text-base,#000000);
+    border-radius: 500px;
+    font-size: inherit;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+
+}
+
+.sp{
+    padding: 10px;
+}

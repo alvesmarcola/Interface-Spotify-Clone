@@ -1,0 +1,52 @@
+.icon p{
+    color: #333;
+    line-height: 1.5;
+    font-size: 15px;
+    padding: 0px
+}
+
+.icon h1{
+    color: black;
+    margin-bottom: 10px; 
+    font-size: 16px; 
+    padding-top: 40px; 
+    line-height: 1.3em;
+    
+}
+
+.imagem-section{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 8%;
+    padding-right: 8%;
+    margin-top: 80px;
+    margin-bottom: 80px;
+
+}
+
+#conteudo-premium h2{
+    text-align: center;
+    margin: 80px;
+    font-size: 4opx;
+    font-weight: 600;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.icon {
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 300px;
+    
+}
+
+.imagem-section img {
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    width: 142px;
+    height: 142px;
+    display: flex;
+}
+
